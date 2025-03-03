@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448956703270",
+    "project_id": "recipie-525c0",
+    "storage_bucket": "recipie-525c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448956703270:android:8f7abfa686380629003ce7",
+        "android_client_info": {
+          "package_name": "com.akashdas.recipesearchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe5b5arhCk5CN7yLqjRjj8KMxk8viHgVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
